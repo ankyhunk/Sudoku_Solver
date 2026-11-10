@@ -1,6 +1,6 @@
-# Sudoku-Solver-Assignment
+# Sudoku-Solver
 
-A Python program that solves Sudoku puzzles using **recursion and backtracking**. Assignment from the Jovian Data Science and Machine Learning Bootcamp.
+A Python program that solves Sudoku puzzles using **recursion and backtracking**.
 
 A Sudoku is a 9×9 grid with some numbers (1–9) already filled in. Each row, each column and each of the nine 3×3 boxes must contain every number from 1 to 9 exactly once.
 
@@ -34,7 +34,7 @@ No extra packages are needed for the solver itself:
 jupyter notebook python_sudoku_solver_assignment.ipynb
 ```
 
-The bulk-solving section downloads its 100 puzzles from a public URL. The `jovian` cells are only for submitting the assignment and can be skipped.
+The bulk-solving section downloads its 100 puzzles from a public URL. 
 
 ## Technologies
 
