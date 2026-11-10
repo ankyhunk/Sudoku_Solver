@@ -31,7 +31,7 @@ is_sudoku_complete(solution)   # True
 No extra packages are needed for the solver itself:
 
 ```bash
-jupyter notebook python_sudoku_solver_assignment.ipynb
+jupyter notebook python_sudoku_solver.ipynb
 ```
 
 The bulk-solving section downloads its 100 puzzles from a public URL. 
