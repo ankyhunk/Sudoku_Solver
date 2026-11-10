@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku Solver
 
 A Python program that solves Sudoku puzzles using **recursion and backtracking**.
 
